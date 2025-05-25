@@ -20,8 +20,7 @@ Este projeto aplica o algoritmo de **K-Nearest Neighbors (KNN) para regressão**
 ## 📈 Resultado
 
 O modelo escolhe automaticamente o valor de `k` que maximiza o **coeficiente de determinação (R²)** — ou seja, o que melhor explica a variação nos dados de lixo gerado por país.
-
-![Gráfico do KNN](Paises.png)
+Dessa forma, o programa foi capaz de criar um modelo capaz de explicar mais de 89% da variação desses dados, obtendo assim grande precisão em prever tal lixo a partir dos parâmetros.
 
 ## 🛠️ Bibliotecas utilizadas
 
