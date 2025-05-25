@@ -5,7 +5,7 @@ Este projeto aplica o algoritmo de **K-Nearest Neighbors (KNN) para regressão**
 ## 📂 Arquivos
 
 - `projeto2.py` — Script principal com o pipeline de machine learning.
-- `train_data.csv` — Conjunto de dados com os indicadores dos países.
+- `train_data.csv` — Conjunto de dados com os indicadores dos países (não necessariamente são verdadeiros).
 - `Paises.png` — Gráfico da performance do modelo em função de `k`.
 
 ## ⚙️ O que o projeto faz
